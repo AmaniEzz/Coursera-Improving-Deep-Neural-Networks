@@ -275,11 +275,3 @@ x = tf.placeholder(tf.float32, [3,1]) cost = x[0][0] * w**2 + x[1][0] * w + x[2]
 data = np.array([1., -10., 25.]).reshape((3,1) session.run(train, feed_dict={x: data})
 ```
 
-
----
-2- What’s new for you ?
--
-## ALL
----
-3- Resources ? 
--
