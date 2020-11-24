@@ -189,10 +189,6 @@ and you're just not 100% sure if you've got all the details right and internal b
     - **Run** at random initialization; perhaps again after some training.
 ---
 
-2- What’s new for you ?
--
-
-
-3- Resources ? 
+Resources ? 
 -
 - [https://upscfever.com/upsc-fever/en/data/deeplearning2/12.html](https://upscfever.com/upsc-fever/en/data/deeplearning2/12.html)
