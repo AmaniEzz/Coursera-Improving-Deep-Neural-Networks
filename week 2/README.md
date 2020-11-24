@@ -246,13 +246,7 @@ In very high-dimensional spaces you're actually much more likely to run into a s
 ---
 
 
-2- What’s new for you ?
----
-
-## ALL
-
-
-3- Resources ? 
+Resources ? 
 ---
 - [https://upscfever.com/upsc-fever/en/data/deeplearning2/18.html](https://upscfever.com/upsc-fever/en/data/deeplearning2/18.html)
 - [https://x-wei.github.io/Ng_DLMooc_c2wk2.html]
